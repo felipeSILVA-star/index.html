@@ -1,5 +1,5 @@
-Nome:felipe silva
-Turma:3B
+Nome: felipe silva
+Turma: 3B
 
 Relatório – Implementação de princípios de acessibilidade em aplicações front-end
 
